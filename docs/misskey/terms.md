@@ -66,7 +66,7 @@ Pariring은 연합 우주의 일부에요. 이에 따라 데이터의 관리에 
 
 ### 서버 관리자
 
-- 파링: [@paring@pikokr.dev](https://pikokr.dev/@paring)
+- 파링: [@paring@pikokr.dev](https://pikokr.dev/@paring) [@paring@misskey.io](https://misskey.io/@paring) [@paring@qdon.space](https://qdon.space/@paring)
 
 ### 모더레이터
 
